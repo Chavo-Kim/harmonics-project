@@ -33,7 +33,7 @@ const _Main = () => {
     return (
         <Box className={classes.root}>
             <Typography className={classes.title}>
-                음정연습
+                성관계
             </Typography>
             <Box className={classes.buttonBox}>
                 <Button variant='text' onClick={() => history.push("/study")}>
